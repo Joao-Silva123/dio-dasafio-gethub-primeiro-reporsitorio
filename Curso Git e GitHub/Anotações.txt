@@ -1,0 +1,7 @@
+Comandos que não pode esquecer:
+-git status
+-git add . (para adicionar todos as alterações)
+-git commit -m "" (para um commit)
+-ls
+-cd (+ nome do arquivo que quer entrar)
+- git push origin {+ a branch que quer enviar}(para subir os commits)
