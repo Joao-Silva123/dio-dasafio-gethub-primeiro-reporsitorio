@@ -4,4 +4,4 @@ Comandos que não pode esquecer:
 -git commit -m "" (para um commit)
 -ls
 -cd (+ nome do arquivo que quer entrar)
-- git push origin {+ a branch que quer enviar}(para subir os commits)
+-git push origin {+ a branch que quer enviar}(para subir os commits)
